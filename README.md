@@ -1,2 +1,7 @@
 # contadorSvelte
-Contador hecho con Svelte
+
+## Contador hecho con Svelte
+
+- Suma
+- Resta
+- Resetea
